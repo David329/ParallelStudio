@@ -100,11 +100,18 @@ margin: auto;
   width: 100%;
   height: auto;
 }
-
 #owl-demo-2 .item{
   margin: 3px;
 }
 #owl-demo-2 .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+#owl-demo-3 .item{
+  margin: 3px;
+}
+#owl-demo-3 .item img{
   display: block;
   width: 100%;
   height: auto;
