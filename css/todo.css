@@ -5703,13 +5703,6 @@ ul.intro-social-buttons > li:last-child {
     background: url(AjaxLoader.gif) no-repeat center center;
 }
 @font-face {
-    font-family: 'Lato';
-    src: url(../fonts/lato/lato-italic.eot);
-    src: url(../fonts/lato/lato-italic.eot?#iefix) format("embedded-opentype"), url(../fonts/lato/lato-italic.woff) format("woff"), url(../fonts/lato/lato-italic.ttf) format("truetype"), url(../fonts/lato/lato-italic.svg#latoitalic) format("svg");
-    font-weight: 400;
-    font-style: italic;
-}
-@font-face {
     font-family: "Flat-UI-Icons";
     src: url(../fonts/flat-ui-icons-regular.eot);
     src: url(../fonts/flat-ui-icons-regular.eot?#iefix) format("embedded-opentype"), url(../fonts/flat-ui-icons-regular.woff) format("woff"), url(../fonts/flat-ui-icons-regular.ttf) format("truetype"), url(../fonts/flat-ui-icons-regular.svg#flat-ui-icons-regular) format("svg");
